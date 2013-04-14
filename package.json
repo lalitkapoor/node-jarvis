@@ -1,0 +1,25 @@
+{
+  "name": "node-jarvis",
+  "version": "0.0.1",
+  "description": "Jarvis",
+  "main": "index.js",
+  "dependencies": {
+    "request": "~2.16.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/lalitkapoor/node-jarvis.git"
+  },
+  "keywords": [
+    "jarvis",
+    "speech recognition"
+  ],
+  "author": "Lalit Kapoor <lalitkapoor@gmail.com>",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "gitHead": "a18b2a24a956c368a4d541c53f6087958dbb6936"
+}

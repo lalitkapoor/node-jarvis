@@ -1,0 +1,2 @@
+https://gist.github.com/durango/1461152
+sox -d --norm test.flac silence 1 5 2% 1 0:00:02 2% rate 16k
